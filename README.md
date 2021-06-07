@@ -1,6 +1,7 @@
-<img src="https://github.com/mbourand/webserv/blob/README/README_IMAGES/webserv.png?raw=true">
+![webserv banner](/../README/README_IMAGES/webserv.png?raw=true "webserv banner")
 
-___Projet réalisé avec [@nforay](https://github.com/nforay)___
+
+___Projet réalisé avec [@mbourand](https://github.com/mbourand)___
 
 # Sommaire
 
@@ -17,11 +18,11 @@ ___Projet réalisé avec [@nforay](https://github.com/nforay)___
 
 Webserv est un serveur web minimaliste permettant de répondre à des requêtes HTTP/1.0 et HTTP/1.1.
 
-<img src="https://github.com/mbourand/webserv/blob/README/README_IMAGES/diagramme.png?raw=true">
+![diagramme webserv](/../README/README_IMAGES/diagramme.png?raw=true "diagramme webserv")
 
 ## Installation
 
-1. ```git clone https://www.github.com/mbourand/webserv && cd webserv```
+1. ```git clone https://www.github.com/nforay/webserv && cd webserv```
 2. ```sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install -y zlib1g-dev build-essential php-cgi```
 3. ```make```
 4. ```./webserv <fichier_de_config>```
